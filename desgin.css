@@ -68,6 +68,10 @@ margin-top: 68px;
   margin-top: 68px;
 }
 
+.logos {
+  text-align: center;
+}
+
 h1 {
     font-family: 'Unbounded', cursive;
 }
@@ -113,4 +117,13 @@ h2 {
 
 .footer-wrap {
   padding: 2%;
+}
+
+.known-langauges {
+  font-size: medium;
+  
+}
+
+.footer a {
+  color: gray;
 }
