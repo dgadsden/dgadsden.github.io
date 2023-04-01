@@ -1,4 +1,3 @@
-/*color for webpage: eggshell white: #F3E9D2, cool gray (blue): #8693AB, midnight(purple); #69306d */
 
 html {
   scroll-behavior: smooth;
@@ -111,6 +110,10 @@ h2 {
       box-shadow: 5px 5px 10px rgb(55, 54, 54);
     }
 
+.project-section.col {
+  padding: 2%;
+}
+
 .footer {
   margin-top: 68px;
   text-align: center;
@@ -139,4 +142,8 @@ h2 {
 
 .contact-info a:hover{
   color: rgb(185, 184, 184);
+}
+
+.project-section a {
+  color: rgb(45, 45, 45);
 }
