@@ -1,5 +1,8 @@
 /*color for webpage: eggshell white: #F3E9D2, cool gray (blue): #8693AB, midnight(purple); #69306d */
 
+html {
+  scroll-behavior: smooth;
+}
 
 body {
   background-image: url("/assets/img/GradientBack1.jpg");
@@ -112,7 +115,7 @@ h2 {
   margin-top: 68px;
   text-align: center;
   background-color: rgba(0, 0, 0, 0.55);
-  color: #fff;
+  color: gray;
 }
 
 .footer-wrap {
@@ -126,4 +129,14 @@ h2 {
 
 .footer a {
   color: gray;
+}
+
+.contact-info{
+  padding-bottom: 2%;
+  font-size: larger;
+  text-color: gray;
+}
+
+.contact-info a:hover{
+  color: rgb(185, 184, 184);
 }
