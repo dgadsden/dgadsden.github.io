@@ -133,14 +133,13 @@ h2 {
 .footer a {
   color: gray;
 }
-
-.contact-info{
+.contact-info {
   padding-bottom: 2%;
   font-size: larger;
   text-color: gray;
 }
 
-.contact-info a:hover{
+.contact-info a:hover {
   color: rgb(185, 184, 184);
 }
 
