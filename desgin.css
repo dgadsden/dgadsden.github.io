@@ -7,7 +7,7 @@ body {
   background-image: url("/assets/img/GradientBack1.jpg");
   background-attachment: fixed;
   background-size: cover;
-  font-family: 'Unbounded', cursive;
+  font-family: 'Unbounded', sans-serif;
   font-size: 18px;
   background-color: rgb(45, 45, 45);
 }
@@ -73,7 +73,9 @@ margin-top: 68px;
 .logos {
   text-align: center;
 }
-
+.logos img {
+  color: black;
+}
 h1 {
     font-family: 'Unbounded', cursive;
 }
