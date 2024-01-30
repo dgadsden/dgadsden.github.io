@@ -4,8 +4,8 @@ html {
 }
 
 body {
-  background-image: url("/assets/img/GradientBack1.jpg");
-  background-attachment: fixed;
+  background-image: url("/assets/img/BrownBack2.jpg");
+  /* background-attachment: fixed; */
   background-size: cover;
   font-family: 'Unbounded', sans-serif;
   font-size: 18px;
@@ -68,6 +68,12 @@ margin-top: 68px;
 
 .about-me-section {
   margin-top: 68px;
+}
+
+.rounded-img {
+  border-radius: 100px;
+  height: 200px;
+  width: 200px;
 }
 
 .logos {
